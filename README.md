@@ -4,7 +4,7 @@
 # How to run the game
 First we have to enter docker
 ```
-$ source cpu/docker_run.sh
+$ source Docker/docker_run.sh
 ```
 After you enter docker
 ```

@@ -1,5 +1,5 @@
 # Game Demo
-![Game Demo](suika_demo.gif)
+![Game Demo](demo_suika.gif)
 
 # If you cannot enter docker
 First open the terminal and type

@@ -9,7 +9,6 @@ $ sudo groupadd -f docker
 Then type the following usermod command to add the active user to the **docker** group
 ```
 $ sudo usermod -aG docker $USER
-# replace $USER with your own username
 ```
 Apply the group changes to the current terminal session by typing
 ```
